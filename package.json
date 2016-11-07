@@ -20,7 +20,6 @@
   "author": "neha gandhi",
   "license": "ISC",
   "dependencies": {
-    "babel-core": "^6.18.2",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
   },
